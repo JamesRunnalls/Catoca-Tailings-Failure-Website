@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+#root {
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.map {
+  width: 100vw;
+  height: 100vh;
+}
+
+a:link {
+  color: rgb(25, 51, 73);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:visited {
+  color: rgb(25, 51, 73);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
